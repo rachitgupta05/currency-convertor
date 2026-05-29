@@ -1,4 +1,4 @@
-# 💱 Currency Converter Web Application
+# 💱 Currency Converter
 
 A responsive currency converter web application built using React. It allows users to convert between different currencies in real-time using exchange rate data from a public API.
 
